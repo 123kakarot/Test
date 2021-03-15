@@ -15,16 +15,18 @@ namespace WebApplication3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page main";
+            ViewBag.Message = "Your application description page main ";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. 123234";
 
             return View();
         }
+
+
     }
 }
