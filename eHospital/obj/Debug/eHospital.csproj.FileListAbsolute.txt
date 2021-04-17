@@ -1,0 +1,38 @@
+E:\phanmem\eHospital\eHospital\bin\Debug\eHospital.exe.config
+E:\phanmem\eHospital\eHospital\bin\Debug\eHospital.exe
+E:\phanmem\eHospital\eHospital\bin\Debug\eHospital.pdb
+E:\phanmem\eHospital\eHospital\bin\Debug\AMS.TextBox.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\AutoUpdater.NET.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\barcode.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\ControlLibrary.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\FlexCel.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\Inventec.Common.Logging.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\Inventec.Speech.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\Library.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\log4net.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\TDControls.dll
+E:\phanmem\eHospital\eHospital\bin\Debug\AutoUpdater.NET.pdb
+E:\phanmem\eHospital\eHospital\bin\Debug\AutoUpdater.NET.xml
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.csprojResolveAssemblyReference.cache
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.FrmMain.resources
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.Properties.Resources.resources
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.csproj.GenerateResource.Cache
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.exe
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.pdb
+E:\phanmem\eHospital\eHospital\obj\Debug\eHospital.FrmMenu.resources
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\eHospital.exe.config
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\eHospital.exe
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\eHospital.pdb
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\AutoUpdater.NET.dll
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\Newtonsoft.Json.dll
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\AutoUpdater.NET.pdb
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\bin\Debug\AutoUpdater.NET.xml
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.csprojAssemblyReference.cache
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.FrmMain.resources
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.FrmMenu.resources
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.Properties.Resources.resources
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.csproj.GenerateResource.cache
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.csproj.CoreCompileInputs.cache
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.csproj.CopyComplete
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.exe
+D:\Phần mền quản lý bệnh viện\eHospital\eHospital\obj\Debug\eHospital.pdb
